@@ -328,6 +328,7 @@ section
 }
 .section_title
 {
+	margin-top: 30px;
 	font-size: 36px;
 	font-weight: 600;
 	color: #404040;
@@ -849,6 +850,13 @@ section
 *********************************/
 
 .services
+{
+	width: 100%;
+	background: #FFFFFF;
+	padding-top: 99px;
+	padding-bottom: 102px;
+}
+.humanitarian
 {
 	width: 100%;
 	background: #FFFFFF;
